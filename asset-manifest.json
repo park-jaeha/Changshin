@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Changshin/static/css/main.797ec9ae.css",
-    "main.js": "/Changshin/static/js/main.496c8a70.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Changshin/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Changshin/index.html",
-    "main.797ec9ae.css.map": "/Changshin/static/css/main.797ec9ae.css.map",
-    "main.496c8a70.js.map": "/Changshin/static/js/main.496c8a70.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Changshin/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.797ec9ae.css",
+    "main.js": "/static/js/main.22839e89.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/index.html",
+    "main.797ec9ae.css.map": "/static/css/main.797ec9ae.css.map",
+    "main.22839e89.js.map": "/static/js/main.22839e89.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.797ec9ae.css",
-    "static/js/main.496c8a70.js"
+    "static/js/main.22839e89.js"
   ]
 }
