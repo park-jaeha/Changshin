@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Changshin/static/css/main.797ec9ae.css",
-    "main.js": "/Changshin/static/js/main.5e191871.js",
+    "main.js": "/Changshin/static/js/main.bf0ca28e.js",
     "static/js/787.28cb0dcd.chunk.js": "/Changshin/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/Changshin/index.html",
     "main.797ec9ae.css.map": "/Changshin/static/css/main.797ec9ae.css.map",
-    "main.5e191871.js.map": "/Changshin/static/js/main.5e191871.js.map",
+    "main.bf0ca28e.js.map": "/Changshin/static/js/main.bf0ca28e.js.map",
     "787.28cb0dcd.chunk.js.map": "/Changshin/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.797ec9ae.css",
-    "static/js/main.5e191871.js"
+    "static/js/main.bf0ca28e.js"
   ]
 }
